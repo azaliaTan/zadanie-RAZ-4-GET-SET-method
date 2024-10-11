@@ -1,0 +1,45 @@
+body{
+    padding: 50px 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    font-size: 30px;
+    color: rgb(119, 84, 39);
+}
+
+ul{
+    font-size: 25px;
+    font-style: italic;
+    color: rgb(172, 126, 65);
+}
+form{
+    display: flex;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    gap: 25px;
+    align-items: center;
+    text-align: center;
+
+}
+
+.b{
+    font-size: 17px;
+    border-radius: 5px;
+    background-color: rgb(119, 84, 39);
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    cursor: pointer;
+
+}
+#cookieType{
+    padding: 10px 20px;
+    border: 2px solid rgb(119, 84, 39);
+}
+
+p{
+    font-size: 21px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
